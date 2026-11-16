@@ -1,0 +1,8 @@
+{
+  "name": "Pahartali Ideal School",
+  "description": "Pahartali Ideal School (পাহাড়তলী আইডিয়াল স্কুল) — Creating Futures since 2016 in Pahartali, Chattogram. Pre-primary and primary academic excellence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
